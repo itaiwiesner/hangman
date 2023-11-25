@@ -1,4 +1,3 @@
-from NotAbcLetterError import NotAbcLetterError
 from hangman_logic import Hangman
 
 FILE_PATH = 'words.txt'
